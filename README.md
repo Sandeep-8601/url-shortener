@@ -1,6 +1,6 @@
 # URL Shortener
 
-A Spring Boot-based URL shortening service similar to Bitly.
+A Spring Boot-based URL shortening service.
 
 ## Features
 - Shorten long URLs
